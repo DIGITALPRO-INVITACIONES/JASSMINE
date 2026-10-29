@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DigitalPro//XV Jassmin Kenya//ES
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:jassmin-kenya-xv-20261107@digitalpro
+DTSTAMP:20261029T030000Z
+DTSTART:20261107T220000Z
+DTEND:20261108T050000Z
+SUMMARY:Mis 15 años - Jassmin Kenya
+LOCATION:Salón de eventos Splendid - Av. Blanco Galindo km 5 lado Techobo
+ l
+DESCRIPTION:18:00 Recepción. 19:30 Ingreso y vals. 20:00 Brindis. 20:30 C
+ ena. 21:00 Presentación sorpresa. 22:00 Diversión. Domingo 8: 00:00 Tor
+ ta y 01:00 Conclusión del evento. Guindo y negro reservados para la quin
+ ceañera.
+URL:https://maps.app.goo.gl/p6USx9Duww9E1P9i8?g_st=aw
+END:VEVENT
+END:VCALENDAR
